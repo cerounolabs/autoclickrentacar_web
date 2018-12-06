@@ -419,6 +419,12 @@
 				</div>
 			</section>
 			END .content-wrapper-outer -->
+
+			<div class="content-whatsapp">
+				<a href="https://api.whatsapp.com/send?phone=595992229034" target="_blank">
+					<img style="width:100%; height:100%;" src="images/logo/whatsapp_256.png" />
+				</a>
+			</div>
 			
 <?php
 	include 'footer.php';
