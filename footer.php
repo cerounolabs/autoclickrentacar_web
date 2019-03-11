@@ -55,7 +55,7 @@
 						<a href="https://www.instagram.com/autoclickrentacar/" target="_blank"><i class="fa fa-instagram"></i></a>
 					</div>
 
-					<p class="footer-message">&copy; 2018 AUTOCLICK RENT A CAR | Todos los derechos reservados.</p>
+					<p class="footer-message">&copy; 2019 AUTOCLICK RENT A CAR | Todos los derechos reservados.</p>
 					<p class="footer-message"><a href="http://cerouno.com.py/" target="_blank">Desarrollado por CEROUNO Labs</a></p>
 				</div>
 				<!-- END .footer-inner -->	

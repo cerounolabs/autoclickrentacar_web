@@ -131,7 +131,7 @@
 				$ret10 = 'kia_picanto_2018';
 				break;
 			case '3':
-				$ret01 = 'Toyota Etios 2018 o Similar';
+				$ret01 = 'Toyota Etios o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
 				$ret04 = '40.00';
@@ -143,7 +143,7 @@
 				$ret10 = 'toyota_etios_2018';
 				break;
 			case '4':
-				$ret01 = 'Toyota Etios 2018 o Similar';
+				$ret01 = 'Toyota Etios o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
 				$ret04 = '90.00';
@@ -155,6 +155,30 @@
 				$ret10 = 'toyota_etios_2018';
 				break;
 			case '5':
+				$ret01 = 'Suzuki Baleno o Similar';
+				$ret02 = '5';
+				$ret03 = 'Autom&aacute;tico';
+				$ret04 = '40.00';
+				$ret05 = 'suzuki_baleno_2018.png';
+				$ret06 = '100 Km';
+				$ret07 = 'Desde el momento en que pongas tus ojos sobre en Baleno, sabrás que todo es diferente ahora. Una nueva y redefinida sensación que te atrapa y no te deja ir, un sentimiento de placer que cambio tu preconcepto de lo que un auto puede ser. Cuando subes a un Baleno, estás a la vanguardia de una emocionante vida. El Baleno combina una forma ancha de baja altura para un excelente estabilidad con un cuerpo conformado por fluidas curvas.';
+				$ret08 = '90.00';
+				$ret09 = '100.00';
+				$ret10 = 'suzuki_baleno_2018';
+				break;
+			case '6':
+				$ret01 = 'Suzuki Baleno o Similar';
+				$ret02 = '5';
+				$ret03 = 'Autom&aacute;tico';
+				$ret04 = '90.00';
+				$ret05 = 'suzuki_baleno_2018.png';
+				$ret06 = 'Km Ilimitado';
+				$ret07 = 'Desde el momento en que pongas tus ojos sobre en Baleno, sabrás que todo es diferente ahora. Una nueva y redefinida sensación que te atrapa y no te deja ir, un sentimiento de placer que cambio tu preconcepto de lo que un auto puede ser. Cuando subes a un Baleno, estás a la vanguardia de una emocionante vida. El Baleno combina una forma ancha de baja altura para un excelente estabilidad con un cuerpo conformado por fluidas curvas.';
+				$ret08 = '40.00';
+				$ret09 = '100.00';
+				$ret10 = 'suzuki_baleno_2018';
+				break;
+			case '7':
 				$ret01 = 'Kia Rio Sedan o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -166,7 +190,7 @@
 				$ret09 = '100.00';
 				$ret10 = 'kia_rio_2018';
 				break;
-			case '6':
+			case '8':
 				$ret01 = 'Kia Rio Sedan o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -178,11 +202,11 @@
 				$ret09 = '100.00';
 				$ret10 = 'kia_rio_2018';
 				break;
-			case '7':
+			case '9':
 				$ret01 = 'Kia Cerato o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
-				$ret04 = '56.00';
+				$ret04 = '66.00';
 				$ret05 = 'kia_cerato_2018.png';
 				$ret06 = '100 Km';
 				$ret07 = 'Tal vez usted nunca pens&oacute; que la innovaci&oacute;n, la excelencia tecnol&oacute;gica y un estilo excepcional pudieran venir juntos en un autom&oacute;vil asequible. Finalmente han llegado. Deje que el nuevo Cerato lo lleve a lugares que usted s&oacute;lo hab&iacute;a imaginado.';
@@ -190,7 +214,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'kia_cerato_2018';
 				break;
-			case '8':
+			case '10':
 				$ret01 = 'Kia Cerato o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -198,11 +222,11 @@
 				$ret05 = 'kia_cerato_2018.png';
 				$ret06 = 'Km Ilimitado';
 				$ret07 = 'Tal vez usted nunca pens&oacute; que la innovaci&oacute;n, la excelencia tecnol&oacute;gica y un estilo excepcional pudieran venir juntos en un autom&oacute;vil asequible. Finalmente han llegado. Deje que el nuevo Cerato lo lleve a lugares que usted s&oacute;lo hab&iacute;a imaginado.';
-				$ret08 = '56.00';
+				$ret08 = '66.00';
 				$ret09 = '500.00';
 				$ret10 = 'kia_cerato_2018';
 				break;
-			case '9':
+			case '11':
 				$ret01 = 'Toyota Corolla 2018 o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -214,7 +238,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'toyota_corolla_2018';
 				break;
-			case '10':
+			case '12':
 				$ret01 = 'Toyota Corolla 2018 o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -226,7 +250,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'toyota_corolla_2018';
 				break;
-			case '11':
+			case '13':
 				$ret01 = 'Kia Sportage o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -238,7 +262,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'kia_sportage_2018';
 				break;
-			case '12':
+			case '14':
 				$ret01 = 'Kia Sportage o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -250,11 +274,11 @@
 				$ret09 = '500.00';
 				$ret10 = 'kia_sportage_2018';
 				break;
-			case '13':
+			case '15':
 				$ret01 = 'Hyundai H1 o Similar';
 				$ret02 = '12';
 				$ret03 = 'Autom&aacute;tico';
-				$ret04 = '120.00';
+				$ret04 = '100.00';
 				$ret05 = 'hyundai_h1_2018.png';
 				$ret06 = '100 Km';
 				$ret07 = 'El Minibus H1 ha obtenido los m&aacute;s altos galardones en todo el mundo, en la categor&iacute;a de auto de pasajeros. Es un veh&iacute;culo especialmente funcional y flexible. Apto para todas las necesidades y exigencias del trasporte de pasajeros y dise&ntilde;ado con altos est&aacute;ndares de comodidad.';
@@ -262,7 +286,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'hyundai_h1_2018';
 				break;
-			case '14':
+			case '16':
 				$ret01 = 'Hyundai H1 o Similar';
 				$ret02 = '12';
 				$ret03 = 'Autom&aacute;tico';
@@ -270,11 +294,11 @@
 				$ret05 = 'hyundai_h1_2018.png';
 				$ret06 = 'Km Ilimitado';
 				$ret07 = 'El Minibus H1 ha obtenido los m&aacute;s altos galardones en todo el mundo, en la categor&iacute;a de auto de pasajeros. Es un veh&iacute;culo especialmente funcional y flexible. Apto para todas las necesidades y exigencias del trasporte de pasajeros y dise&ntilde;ado con altos est&aacute;ndares de comodidad.';
-				$ret08 = '120.00';
+				$ret08 = '100.00';
 				$ret09 = '500.00';
 				$ret10 = 'hyundai_h1_2018';
 				break;
-			case '15':
+			case '17':
 				$ret01 = 'Chevrolet S10 LTZ o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
@@ -286,7 +310,7 @@
 				$ret09 = '500.00';
 				$ret10 = 'chevrolet_s10_2018';
 				break;
-			case '16':
+			case '18':
 				$ret01 = 'Chevrolet S10 LTZ o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';

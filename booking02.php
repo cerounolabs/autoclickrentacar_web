@@ -191,8 +191,8 @@
 								<div id="veh02" class="vehicle-section clearfix">
 									<p>Toyota Etios o Similar
 										<br>
-										<strong><input id="veh02_1" type="radio" name="rsv02" value="3" onclick="selectVehiculo(this.id);"> US$40.00 100 Km</strong>
-										<strong><input id="veh02_2" type="radio" name="rsv02" value="4" onclick="selectVehiculo(this.id);"> US$90.00 Km Ilimitado</strong>
+										<strong><input id="veh02_1" type="radio" name="rsv07" value="3" onclick="selectVehiculo(this.id);"> US$40.00 100 Km</strong>
+										<strong><input id="veh02_2" type="radio" name="rsv07" value="4" onclick="selectVehiculo(this.id);"> US$90.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/toyota_etios_2018.png" alt="Toyota Etios" />
 								</div>
@@ -200,65 +200,76 @@
 
 								<!-- BEGIN .vehicle-section -->
 								<div id="veh03" class="vehicle-section clearfix">
+									<p>Suzuki Baleno o Similar
+										<br>
+										<strong><input id="veh03_1" type="radio" name="rsv07" value="5" onclick="selectVehiculo(this.id);"> US$40.00 100 Km</strong>
+										<strong><input id="veh03_2" type="radio" name="rsv07" value="6" onclick="selectVehiculo(this.id);"> US$90.00 Km Ilimitado</strong>
+									</p>
+									<img src="images/flota/350x160/suzuki_baleno_2018.png" alt="Suzuki Baleno" />
+								</div>
+								<!-- END .vehicle-section -->
+
+								<!-- BEGIN .vehicle-section -->
+								<div id="veh04" class="vehicle-section clearfix">
 									<p>Kia Rio Sedan o Similar 
 										<br>
-										<strong><input id="veh03_1" type="radio" name="rsv03" value="5" onclick="selectVehiculo(this.id);"> US$44.00 100 Km</strong>
-										<strong><input id="veh03_2" type="radio" name="rsv03" value="6" onclick="selectVehiculo(this.id);"> US$101.00 Km Ilimitado</strong>
+										<strong><input id="veh04_1" type="radio" name="rsv07" value="7" onclick="selectVehiculo(this.id);"> US$44.00 100 Km</strong>
+										<strong><input id="veh04_2" type="radio" name="rsv07" value="8" onclick="selectVehiculo(this.id);"> US$101.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/kia_rio_2018.png" alt="Kia Rio Sedan" />
 								</div>
 								<!-- END .vehicle-section -->
 
 								<!-- BEGIN .vehicle-section -->
-								<div id="veh04" class="vehicle-section clearfix">
+								<div id="veh05" class="vehicle-section clearfix">
 									<p>Kia Cerato o Similar
 										<br>
-										<strong><input id="veh04_1" type="radio" name="rsv04" value="7" onclick="selectVehiculo(this.id);"> US$56.00 100 Km</strong>
-										<strong><input id="veh04_2" type="radio" name="rsv04" value="8" onclick="selectVehiculo(this.id);"> US$140.00 Km Ilimitado</strong>
+										<strong><input id="veh05_1" type="radio" name="rsv07" value="9" onclick="selectVehiculo(this.id);"> US$66.00 100 Km</strong>
+										<strong><input id="veh05_2" type="radio" name="rsv07" value="10" onclick="selectVehiculo(this.id);"> US$140.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/kia_cerato_2018.png" alt="Kia Cerato Pro 2G" />
 								</div>
 								<!-- END .vehicle-section -->
 
 								<!-- BEGIN .vehicle-section -->
-								<div id="veh05" class="vehicle-section clearfix">
+								<div id="veh06" class="vehicle-section clearfix">
 									<p>Toyota Corolla o Similar
 										<br>
-										<strong><input id="veh05_1" type="radio" name="rsv05" value="9" onclick="selectVehiculo(this.id);"> US$66.00 100 Km</strong>
-										<strong><input id="veh05_2" type="radio" name="rsv05" value="10" onclick="selectVehiculo(this.id);"> US$0.00 Km Ilimitado</strong>
+										<strong><input id="veh06_1" type="radio" name="rsv07" value="11" onclick="selectVehiculo(this.id);"> US$66.00 100 Km</strong>
+										<strong><input id="veh06_2" type="radio" name="rsv07" value="12" onclick="selectVehiculo(this.id);"> US$165.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/toyota_corolla_2018.png" alt="Toyota Corolla" />
 								</div>
 								<!-- END .vehicle-section -->
 
 								<!-- BEGIN .vehicle-section -->
-								<div id="veh06" class="vehicle-section clearfix">
+								<div id="veh07" class="vehicle-section clearfix">
 									<p>Kia Sportage o Similar
 										<br>
-										<strong><input id="veh06_1" type="radio" name="rsv06" value="11" onclick="selectVehiculo(this.id);"> US$76.00 100 Km</strong>
-										<strong><input id="veh06_2" type="radio" name="rsv06" value="12" onclick="selectVehiculo(this.id);"> US$190.00 Km Ilimitado</strong>
+										<strong><input id="veh07_1" type="radio" name="rsv07" value="13" onclick="selectVehiculo(this.id);"> US$76.00 100 Km</strong>
+										<strong><input id="veh07_2" type="radio" name="rsv07" value="14" onclick="selectVehiculo(this.id);"> US$190.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/kia_sportage_2018.png" alt="Kia Sportage" />
 								</div>
 								<!-- END .vehicle-section -->
 
 								<!-- BEGIN .vehicle-section -->
-								<div id="veh07" class="vehicle-section clearfix">
+								<div id="veh08" class="vehicle-section clearfix">
 									<p>Hyundai H1 o Similar
 										<br>
-										<strong><input id="veh07_1" type="radio" name="rsv07" value="13" onclick="selectVehiculo(this.id);"> US$120.00 100 Km</strong>
-										<strong><input id="veh07_2" type="radio" name="rsv07" value="14" onclick="selectVehiculo(this.id);"> US$210.00 Km Ilimitado</strong>
+										<strong><input id="veh08_1" type="radio" name="rsv07" value="15" onclick="selectVehiculo(this.id);"> US$100.00 100 Km</strong>
+										<strong><input id="veh08_2" type="radio" name="rsv07" value="16" onclick="selectVehiculo(this.id);"> US$210.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/hyundai_h1_2018.png" alt="Hyundai H1" />
 								</div>
 								<!-- END .vehicle-section -->
 
 								<!-- BEGIN .vehicle-section -->
-								<div id="veh08" class="vehicle-section clearfix">
+								<div id="veh09" class="vehicle-section clearfix">
 									<p>Chevrolet S10 LTZ o Similar
 										<br>
-										<strong><input id="veh08_1" type="radio" name="rsv08" value="15" onclick="selectVehiculo(this.id);"> US$130.00 100 Km</strong>
-										<strong><input id="veh08_2" type="radio" name="rsv08" value="16" onclick="selectVehiculo(this.id);"> US$255.00 Km Ilimitado</strong>
+										<strong><input id="veh09_1" type="radio" name="rsv07" value="17" onclick="selectVehiculo(this.id);"> US$110.00 100 Km</strong>
+										<strong><input id="veh09_2" type="radio" name="rsv07" value="18" onclick="selectVehiculo(this.id);"> US$230.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/chevrolet_s10_2018.png" alt="Chevrolet S10 LTZ" />
 								</div>

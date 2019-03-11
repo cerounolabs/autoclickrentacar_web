@@ -202,7 +202,7 @@
 					<div class="qns-one-half home-icon-wrapper-2">
 						<div class="qns-home-icon"><i class="fa fa-calendar-check-o"></i></div>
 						<div class="home-icon-inner">
-							<h4>F&aacute;cil reserva en l&uacute;nea</h4>
+							<h4>F&aacute;cil reserva en l&iacute;nea</h4>
 							<div class="title-block3"></div>
 							<p></p>
 						</div>

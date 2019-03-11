@@ -143,6 +143,10 @@
 							<div class="car-list-section clearfix">
 								<img src="images/flota/85x54/toyota_etios_2018.png" alt="Toyota Etios" /><p><strong>Toyota Etios o Similar</strong></p>
 							</div>
+
+							<div class="car-list-section clearfix">
+								<img src="images/flota/85x54/suzuki_baleno_2018.png" alt="Suzuki Baleno" /><p><strong>Suzuki Baleno o Similar</strong></p>
+							</div>
 							
 							<div class="car-list-section clearfix">
 								<img src="images/flota/85x54/kia_rio_2018.png" alt="Kia Rio Sedan" /><p><strong>Kia Rio Sedan o Similar</strong></p>
@@ -187,11 +191,15 @@
 							</div>
 							
 							<div class="service-rate-section">
+								<p><strong><span>US$40.00</span> / D&iacute;a</strong></p>
+							</div>
+
+							<div class="service-rate-section">
 								<p><strong><span>US$44.00</span> / D&iacute;a</strong></p>
 							</div>
 							
 							<div class="service-rate-section">
-								<p><strong><span>US$56.00</span> / D&iacute;a</strong></p>
+								<p><strong><span>US$66.00</span> / D&iacute;a</strong></p>
 							</div>
 							
 							<div class="service-rate-section">
@@ -203,7 +211,7 @@
 							</div>
 							
 							<div class="service-rate-section">
-								<p><strong><span>US$110.00</span> / D&iacute;a</strong></p>
+								<p><strong><span>US$100.00</span> / D&iacute;a</strong></p>
 							</div>
 
 							<div class="service-rate-section">
@@ -224,6 +232,10 @@
 								<p><strong><span>US$80.00</span> / D&iacute;a</strong></p>
 							</div>
 							
+							<div class="service-rate-section">
+								<p><strong><span>US$90.00</span> / D&iacute;a</strong></p>
+							</div>
+
 							<div class="service-rate-section">
 								<p><strong><span>US$90.00</span> / D&iacute;a</strong></p>
 							</div>
