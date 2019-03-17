@@ -266,10 +266,21 @@
 
 								<!-- BEGIN .vehicle-section -->
 								<div id="veh09" class="vehicle-section clearfix">
-									<p>Chevrolet S10 LTZ o Similar
+									<p>Toyota Fortuner o Similar
 										<br>
 										<strong><input id="veh09_1" type="radio" name="rsv07" value="17" onclick="selectVehiculo(this.id);"> US$110.00 100 Km</strong>
 										<strong><input id="veh09_2" type="radio" name="rsv07" value="18" onclick="selectVehiculo(this.id);"> US$230.00 Km Ilimitado</strong>
+									</p>
+									<img src="images/flota/350x160/toyota_fortuner_2019.png" alt="Toyota Fortuner" />
+								</div>
+								<!-- END .vehicle-section -->
+
+								<!-- BEGIN .vehicle-section -->
+								<div id="veh10" class="vehicle-section clearfix">
+									<p>Chevrolet S10 LTZ o Similar
+										<br>
+										<strong><input id="veh10_1" type="radio" name="rsv07" value="19" onclick="selectVehiculo(this.id);"> US$110.00 100 Km</strong>
+										<strong><input id="veh10_2" type="radio" name="rsv07" value="20" onclick="selectVehiculo(this.id);"> US$230.00 Km Ilimitado</strong>
 									</p>
 									<img src="images/flota/350x160/chevrolet_s10_2018.png" alt="Chevrolet S10 LTZ" />
 								</div>

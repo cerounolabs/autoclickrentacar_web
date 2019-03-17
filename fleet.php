@@ -126,7 +126,7 @@
 				<!-- BEGIN .fleet-block-wrapper -->
 				<div class="fleet-block-wrapper fleet-3-cols clearfix">
 <?php
-	for($i = 1; $i < 17; $i++){
+	for($i = 1; $i < 21; $i++){
 		if( ($i % 2) != 0 ) {
 			$varFlota = strVehiculo($i);
 ?>

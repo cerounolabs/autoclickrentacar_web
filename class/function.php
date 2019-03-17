@@ -299,26 +299,50 @@
 				$ret10 = 'hyundai_h1_2018';
 				break;
 			case '17':
+				$ret01 = 'Toyota Fortuner o Similar';
+				$ret02 = '7';
+				$ret03 = 'Autom&aacute;tico';
+				$ret04 = '110.00';
+				$ret05 = 'toyota_fortuner_2019.png';
+				$ret06 = '100 Km';
+				$ret07 = 'El Fortuner viene completamente renovado por dentro y por fuera. Su exclusividad ahora viene acompa&ntilde;ada de m&aacute;s comodidad, m&aacute;s espacio y m&aacute;s extras. Definitivamente Fortuner lo tiene todo, por algo es Toyota.';
+				$ret08 = '230.00';
+				$ret09 = '500.00';
+				$ret10 = 'toyota_fortuner_2019';
+				break;
+			case '18':
+				$ret01 = 'Toyota Fortuner o Similar';
+				$ret02 = '7';
+				$ret03 = 'Autom&aacute;tico';
+				$ret04 = '230.00';
+				$ret05 = 'toyota_fortuner_2019.png';
+				$ret06 = 'Km Ilimitado';
+				$ret07 = 'El Fortuner viene completamente renovado por dentro y por fuera. Su exclusividad ahora viene acompa&ntilde;ada de m&aacute;s comodidad, m&aacute;s espacio y m&aacute;s extras. Definitivamente Fortuner lo tiene todo, por algo es Toyota.';
+				$ret08 = '110.00';
+				$ret09 = '500.00';
+				$ret10 = 'toyota_fortuner_2019';
+				break;
+			case '19':
 				$ret01 = 'Chevrolet S10 LTZ o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
-				$ret04 = '130.00';
+				$ret04 = '110.00';
 				$ret05 = 'chevrolet_s10_2018.png';
 				$ret06 = '100 Km';
 				$ret07 = 'La Chevrolet S10 Cabina Doble est&aacute; lista para el desaf&iacute;o de complacer el estilo y la fuerza. Con un dise&ntilde;o completamente nuevo y lleno de &iacute;tems de confort, es ideal para aquellos que buscan sofisticaci&oacute;n.';
-				$ret08 = '255.00';
+				$ret08 = '230.00';
 				$ret09 = '500.00';
 				$ret10 = 'chevrolet_s10_2018';
 				break;
-			case '18':
+			case '20':
 				$ret01 = 'Chevrolet S10 LTZ o Similar';
 				$ret02 = '5';
 				$ret03 = 'Autom&aacute;tico';
-				$ret04 = '255.00';
+				$ret04 = '230.00';
 				$ret05 = 'chevrolet_s10_2018.png';
 				$ret06 = 'Km Ilimitado';
 				$ret07 = 'La Chevrolet S10 Cabina Doble est&aacute; lista para el desaf&iacute;o de complacer el estilo y la fuerza. Con un dise&ntilde;o completamente nuevo y lleno de &iacute;tems de confort, es ideal para aquellos que buscan sofisticaci&oacute;n.';
-				$ret08 = '130.00';
+				$ret08 = '110.00';
 				$ret09 = '500.00';
 				$ret10 = 'chevrolet_s10_2018';
 				break;

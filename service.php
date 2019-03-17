@@ -167,6 +167,10 @@
 							<div class="car-list-section clearfix">
 								<img src="images/flota/85x54/hyundai_h1_2018.png" alt="Hyundai H1" /><p><strong>Hyundai H1 o Similar</strong></p>
 							</div>
+
+							<div class="car-list-section clearfix">
+								<img src="images/flota/85x54/toyota_fortuner_2019.png" alt="Toyota Fortuner" /><p><strong>Toyota Fortuner o Similar</strong></p>
+							</div>
 							
 							<div class="car-list-section clearfix">
 								<img src="images/flota/85x54/chevrolet_s10_2018.png" alt="Chevrolet S10 LTZ" /><p><strong>Chevrolet S10 LTZ o Similar</strong></p>
@@ -217,6 +221,10 @@
 							<div class="service-rate-section">
 								<p><strong><span>US$110.00</span> / D&iacute;a</strong></p>
 							</div>
+
+							<div class="service-rate-section">
+								<p><strong><span>US$110.00</span> / D&iacute;a</strong></p>
+							</div>
 						</div>
 						<!-- END .service-rate-inner -->
 					</div>
@@ -260,6 +268,10 @@
 								<p><strong><span>US$210.00</span> / D&iacute;a</strong></p>
 							</div>
 							
+							<div class="service-rate-section">
+								<p><strong><span>US$230.00</span> / D&iacute;a</strong></p>
+							</div>
+
 							<div class="service-rate-section">
 								<p><strong><span>US$230.00</span> / D&iacute;a</strong></p>
 							</div>

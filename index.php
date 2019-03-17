@@ -149,7 +149,7 @@
 				<!-- BEGIN .fleet-block-wrapper -->
 				<div class="owl-carousel1 fleet-block-wrapper">
 <?php
-	for($i = 1; $i < 17; $i++){
+	for($i = 1; $i < 21; $i++){
 		if( ($i % 2) != 0 ) {
 			$varFlota = strVehiculo($i);
 ?>
