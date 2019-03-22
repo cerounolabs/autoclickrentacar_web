@@ -144,28 +144,31 @@
 </html>
 	";
 	
-	$mail 				= new PHPMailer();
-	$mailHost			= 'reservas@autoclickrentacar.com.py';
+	$mail 				= new PHPMailer(true);
+
 	$mail->IsSMTP();
 	$mail->Host 		= '192.185.195.38';
 	$mail->SMTPAuth 	= true;
-	$mail->Username 	= $mailHost;
+	$mail->Username 	= 'reservas@autoclickrentacar.com.py';
 	$mail->Password 	= 'Autoclick01';
 	$mail->SMTPSecure	= 'tls'; 
-	$mail->From 		= $mailHost; 
-	$mail->FromName 	= 'AUTOCLICK';
+	$mail->Port       	= 587; 
+
+	$mail->setFrom('reservas@autoclickrentacar.com.py', 'autoclick rent a car');
 	$mail->AddAddress($var13, $var08." ".$var09);
-	$mail->AddBCC($mailHost);
+	$mail->AddBCC('reservas@autoclickrentacar.com.py');
+	$mail->AddBCC('carce@autoclickrentacar.com.py');
+
 	$mail->isHTML(true);
 	$mail->Subject 		= 'AUTOCLICK - Reserva Online';
 	$mail->Body    		= $mailBody;
 	$mail->AltBody 		= $mailBody;
 	
 	if(!$mail->Send()) {
-	   echo "Message could not be sent. <p>";
-	   echo "Mailer Error: " . $mail->ErrorInfo;
-	   exit;
-	} else {
-		header('Location: index.php');
-	}
+		echo "No se pudo enviar el mensaje. <p>";
+		echo "Mailer Error: " . $mail->ErrorInfo;
+		exit;
+	 } else {
+		 header('Location: index.php');
+	 }
 ?>
